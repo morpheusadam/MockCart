@@ -5,11 +5,11 @@
 ### Ready-to-import dummy WooCommerce products (simple, variable & variation rows) in CSV format — with English and Persian sample data and free demo images for theme building, UI testing, and store demos.
 
 <p>
-  <img src="https://img.shields.io/github/license/morpheusadam/lorem-product?style=for-the-badge&color=4c1" alt="License" />
-  <img src="https://img.shields.io/github/stars/morpheusadam/lorem-product?style=for-the-badge&color=ffca28" alt="Stars" />
-  <img src="https://img.shields.io/github/forks/morpheusadam/lorem-product?style=for-the-badge&color=42a5f5" alt="Forks" />
-  <img src="https://img.shields.io/github/last-commit/morpheusadam/lorem-product?style=for-the-badge&color=8e44ad" alt="Last commit" />
-  <img src="https://img.shields.io/github/repo-size/morpheusadam/lorem-product?style=for-the-badge&color=e67e22" alt="Repo size" />
+  <img src="https://img.shields.io/github/license/morpheusadam/MockCart?style=for-the-badge&color=4c1" alt="License" />
+  <img src="https://img.shields.io/github/stars/morpheusadam/MockCart?style=for-the-badge&color=ffca28" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/morpheusadam/MockCart?style=for-the-badge&color=42a5f5" alt="Forks" />
+  <img src="https://img.shields.io/github/last-commit/morpheusadam/MockCart?style=for-the-badge&color=8e44ad" alt="Last commit" />
+  <img src="https://img.shields.io/github/repo-size/morpheusadam/MockCart?style=for-the-badge&color=e67e22" alt="Repo size" />
 </p>
 
 <p>
@@ -67,7 +67,7 @@ Each CSV contains a variable parent product (e.g. *AI Lab Jacket*, SKU `VR-001`)
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/morpheusadam/lorem-product.git
+   git clone https://github.com/morpheusadam/MockCart.git
    ```
 2. In WordPress admin, go to **Products → Import**.
 3. Upload **`english.csv`** (or **`product.csv`** for Persian data) and click **Continue**.
@@ -93,7 +93,7 @@ lorem-product/
 
 ## 🤝 Contributing
 
-Contributions are welcome! Open an [issue](https://github.com/morpheusadam/lorem-product/issues) or submit a pull request with additional sample products, more product types (grouped / external), or extra language datasets.
+Contributions are welcome! Open an [issue](https://github.com/morpheusadam/MockCart/issues) or submit a pull request with additional sample products, more product types (grouped / external), or extra language datasets.
 
 ## 📜 License
 
@@ -122,8 +122,8 @@ Web developer & cheerful hacker · PHP · Laravel · Go
 
 ## ⭐ Star History
 
-<a href="https://star-history.com/#morpheusadam/lorem-product&Date">
-  <img src="https://api.star-history.com/svg?repos=morpheusadam/lorem-product&type=Date" alt="lorem-product — Star History Chart" width="70%" />
+<a href="https://star-history.com/#morpheusadam/MockCart&Date">
+  <img src="https://api.star-history.com/svg?repos=morpheusadam/MockCart&type=Date" alt="lorem-product — Star History Chart" width="70%" />
 </a>
 
 <div align="center">
