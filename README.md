@@ -1,7 +1,5 @@
 <div align="center">
-
-# 🛍️ Lorem Product — WooCommerce Sample Product CSV
-
+# 🛍️ Mock Cart — WooCommerce Sample Product CSV
 ### Ready-to-import dummy WooCommerce products (simple, variable & variation rows) in CSV format — with English and Persian sample data and free demo images for theme building, UI testing, and store demos.
 
 <p>
